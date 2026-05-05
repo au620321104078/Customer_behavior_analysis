@@ -24,8 +24,8 @@ Project Workflow
 🛠️ How to Use This Project
 Clone the repository
 
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
+git clone https://github.com/au620321104078/Customer_behavior_analysis.git
+cd Customer_behavior_analysis
 Open Customer_Shopping_Behavior_Analysis.ipynb notebook
 
 This file contains:
